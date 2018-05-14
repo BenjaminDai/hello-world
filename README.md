@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everybody!
+
+Benjamin here, I like C++.
